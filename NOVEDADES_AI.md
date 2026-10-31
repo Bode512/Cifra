@@ -322,7 +322,7 @@ biblioteca. Todo lo que viene después se apoya aquí.
 
 ---
 
-### 0.2 — Depuración como método (base hecha; 0.2.1 completada, pendiente de revisión)
+### 0.2 — Depuración como método (base hecha; 0.2.1 terminada, pendiente de revisión)
 
 **Objetivo:** que un error deje de ser algo que la IA tapa. Un error pasa a ser algo que se lee, se
 localiza, se explica y se aprende a evitar. Estudio del fallo: **qué falló, por qué ocurrió, cómo
